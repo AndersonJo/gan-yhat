@@ -1,6 +1,6 @@
 # project
 .ipynb_checkpoints
-
+.idea
 
 # Python 
 *.pyc
