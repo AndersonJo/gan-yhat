@@ -6,5 +6,9 @@
 *.pyc
 *.py~
 
+# Data
+data
+
+
 # Log
 *.log
