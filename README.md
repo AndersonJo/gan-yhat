@@ -11,3 +11,19 @@ The followings are a list of GAN implemented here.
 4. Improved GAN
     - Feature Maching 
 5. AnoGAN
+
+## Vanilla GAN
+
+#### MNIST 
+
+![MNIST](images/vanilla_mnist.png)
+
+## Conditional GAN
+
+![Conditional GAN](images/conditional_gan.png)
+
+## DCGAN
+
+![Conditional GAN](images/dcgan.png)
+
+![Conditional GAN](images/dcgan2.png)
