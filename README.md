@@ -35,3 +35,11 @@ DCGAN makes use of convolutions and transposed convolutions.
 ![Conditional GAN](images/dcgan2.png)
 
 ![Conditional GAN](images/dcgan3.png)
+
+## Improved GAN
+
+#### Feature Matching
+
+![Conditional GAN](images/feature-matching1.png)
+
+![Conditional GAN](images/feature-matching4.png)
