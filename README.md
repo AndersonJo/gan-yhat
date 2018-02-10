@@ -36,6 +36,14 @@ DCGAN makes use of convolutions and transposed convolutions.
 
 ![Conditional GAN](images/dcgan3.png)
 
+## RNN GAN
+
+#### Sin 
+
+It uses feature mapping and LSTM.
+
+![Sin](images/rnngan-sin.png)
+
 ## Improved GAN
 
 #### Feature Matching
