@@ -51,3 +51,24 @@ It uses feature mapping and LSTM.
 ![Conditional GAN](images/feature-matching1.png)
 
 ![Conditional GAN](images/feature-matching4.png)
+
+## AnoGAN
+
+Anomaly Detection with GAN
+
+#### Anomaly Detection for Normal Data
+
+The following images are normal images. 
+
+> It is good if red dots are less shown. 
+
+![Normal1](images/ano_normal1.png)
+
+![Normal1](images/ano_normal2.png)
+
+![Normal1](images/ano_normal3.png)
+
+![Normal1](images/ano_normal4.png)
+
+![Normal1](images/ano_normal5.png)
+
