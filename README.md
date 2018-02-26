@@ -83,3 +83,22 @@ The following images are normal images.
 
 ![Normal1](images/ano_normal7.png)
 
+#### Anomaly Detection for Abnormal Data
+
+
+![Abnormal1](images/ano_abnormal1.png)
+
+![Abnormal1](images/ano_abnormal2.png)
+
+![Abnormal1](images/ano_abnormal3.png)
+
+![Abnormal1](images/ano_abnormal4.png)
+
+![Abnormal1](images/ano_abnormal5.png)
+
+![Abnormal1](images/ano_abnormal6.png)
+
+![Abnormal1](images/ano_abnormal7.png)
+
+![Abnormal1](images/ano_abnormal8.png)
+
