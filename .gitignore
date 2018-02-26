@@ -10,6 +10,7 @@
 data
 *.pth.tar
 anomaly-images 
+anomalous-fashion-mnist
 
 # Log
 *.log
